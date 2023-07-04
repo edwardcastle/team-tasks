@@ -55,7 +55,9 @@ const sum = (obj) => obj.task_1 + obj.task_2 +obj.task_3 + obj.task_4 + obj.task
 
 <template>
   <v-container class="my-auto" style="min-height: 100vh">
-    <h1 class="text-center mt-16">David me tienes quemao</h1>
+    <h1 class="text-center mt-16">
+      Tasks
+    </h1>
   <v-table class="mt-16">
     <thead>
     <tr>
